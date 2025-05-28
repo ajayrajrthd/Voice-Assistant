@@ -22,7 +22,7 @@ tools_list = [
     FetchContactTool,
     EmailingTool,
     SearchWebTool,
-    # KnowledgeSearchTool
+    KnowledgeSearchTool
 ]
 
 # Initiate the sale agent
